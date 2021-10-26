@@ -1,0 +1,44 @@
+div {
+    background-color: black;
+}
+h1 {
+    color: rgb(37, 184, 86);
+    background-color: black;
+    border-style: double;
+    border-color: green;
+    border-radius: 20px;
+    text-align: center;
+    font-family: monospace;
+    font-size: 40px;
+}
+.main-section {  
+    border-style: solid;
+    border-color: blue;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.img-cat {
+width: 200px;
+}
+
+.img-section {
+border-radius: 48px;
+border-color: hotpink;
+border-style: double;
+}
+
+img {
+    border-radius: 50%;
+}
+
+body    {
+    color: white;
+    border-style: dashed;
+    font-size: 16px;
+    
+}
+.auto { 
+    cursor: auto;
+}
+
