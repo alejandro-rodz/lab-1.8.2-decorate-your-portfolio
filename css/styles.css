@@ -1,6 +1,14 @@
 div {
     background-color: black;
 }
+
+p {
+font-size: 16px;
+color: sandybrown;
+font-family: monospace;
+}
+
+
 h1 {
     color: rgb(37, 184, 86);
     background-color: black;
